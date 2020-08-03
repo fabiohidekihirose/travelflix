@@ -1,0 +1,182 @@
+{
+  "categorias": [
+    {
+      "titulo": "Ásia",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Dicas de viagem pela Ásia"
+      },
+      "videos": [
+        {
+          "titulo": "CASTELO no JAPÃO - Fui a HIMEJI de TREM BALA Ep. 8",
+          "url": "https://www.youtube.com/watch?v=f6A3BJSdYMg&list=PLlZmBpUeOaNCxkWs1p0rYDDKCGPOnNV7P&index=9"
+        },
+        {
+          "titulo": "O QUE ESPERAR DE PHI PHI - TAILÂNDIA | Ásia #11",
+          "url": "https://www.youtube.com/watch?v=bnV_fKyGXqQ"
+        },
+        {
+          "titulo": "O lado OBSCURO de HONG KONG na CHINA - Estevam Pelo Mundo",
+          "url": "https://www.youtube.com/watch?v=ZeexPGL5xMo&list=PLlZmBpUeOaNC_0C-Sg4g-tWERO3RF_vy4"
+        },
+        {
+          "titulo": "8 lugares que você PRECISA visitar em Busan, Coreia do Sul",
+          "url": "https://www.youtube.com/watch?v=hO4WpFq8xYI"
+        },
+        {
+          "titulo": "VARANASI NA ÍNDIA: O QUE FAZER EM 2 DIAS? RIO GANGES + AARTI | Prefiro Viajar",
+          "url": "https://www.youtube.com/watch?v=vFkAUxfpek4&t=1365s"
+        },
+        {
+          "titulo": "COMO é a CORÉIA do NORTE? - O país MAIS fechado do MUNDO.",
+          "url": "https://www.youtube.com/watch?v=pPwYkzUTPbU"
+        },
+        {
+          "titulo": "HOTEL CÁPSULA no JAPÃO | o DIFERENTE do JAPÃO | Travel and Share | T4. Ep.142",
+          "url": "https://www.youtube.com/watch?v=KNchw7Wb6hY&list=PL-iw_1h-Pruk1weG9FyytXYb_GoGfB9UQ&index=7"
+        },
+        {
+          "titulo": "SIARGAO, a melhor ilha das FILIPINAS | Ásia #16",
+          "url": "https://www.youtube.com/watch?v=za6JXAZEZZY"
+        }        
+      ]
+    },
+    {
+      "titulo": "Europa",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Dicas de viagem pela Europa"
+      },
+      "videos": [
+        {
+          "titulo": "UM DIA EM EDIMBURGO ESCÓCIA | VIAGEM Romulo e Mirella - Travel and Share",
+          "url": "https://www.youtube.com/watch?v=Co7BnmkE4oQ&list=PL-iw_1h-PrukQaMpnrfC70DrRmnvAaTXJ"
+        },
+        {
+          "titulo": "O que fazer em OSLO na NORUEGA? País de pessoas BONITAS, Vikings e FIORDES - Estevam Pelo Mundo",
+          "url": "https://www.youtube.com/watch?v=MalQDKf2mA4&t=917s"
+        },
+        {
+          "titulo": "ESQUEÇA LISBOA E VÁ PARA ESSES LUGARES | Portugal #2",
+          "url": "https://www.youtube.com/watch?v=8gfgrQtq9Uc"
+        },
+        {
+          "titulo": "DICAS DE MALTA: O QUE FAZER + CENÁRIOS DE GAME OF THRONES | Prefiro Viajar",
+          "url": "https://www.youtube.com/watch?v=ht4hhYi_R_8"
+        }
+      ]
+    },
+    {
+      "titulo": "Américas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Dicas de viagem pelas Américas"
+      },
+      "videos": [
+        {
+          "titulo": "SALAR DE UYUNI EM 4 DIAS: PASSEIO COMPLETO SAINDO DO ATACAMA | Prefiro Viajar",
+          "url": "https://www.youtube.com/watch?v=Mtdg3TzrJbQ"
+        },
+        {
+          "titulo": "BOGOTÁ na COLÔMBIA- COMIDAS, PREÇOS, o QUE FAZER e ONDE FICAR? - Estevam Pelo Mundo",
+          "url": "https://www.youtube.com/watch?v=uFrCOFCdyik"
+        },
+        {
+          "titulo": "FLORESTA ESCONDIDA NO USHUAIA | Travel and Share",
+          "url": "https://www.youtube.com/watch?v=mNVp_vt7vhM"
+        },
+        {
+          "titulo": "Nova York em 3 dias - Os melhores lugares de NYC",
+          "url": "https://www.youtube.com/watch?v=xQAGH9Qc4ow"
+        },
+        {
+          "titulo": "TERMAS COLINAS EM CAJON DEL MAIPO | Chile #4",
+          "url": "https://www.youtube.com/watch?v=PkVrzy_lvH4"
+        }
+      ]
+    },
+    {
+      "titulo": "Brasil",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "ROTA DAS EMOÇÕES - Dos LENÇÓIS até JERI",
+          "url": "https://www.youtube.com/watch?v=Io_QGZjp0KE"
+        },
+        {
+          "titulo": "CANOA QUEBRADA, CEARÁ: PASSEIO DE BUGGY e BATE E VOLTA DE FORTALEZA! | Prefiro Viajar",
+          "url": "https://www.youtube.com/watch?v=Y6u4YdDwdy0"
+        },
+        {
+          "titulo": "O que fazer em GRAMADO e CANELA em 5 dias? Parques, Diversão, Hotéis e Restaurantes",
+          "url": "https://www.youtube.com/watch?v=KClStVZ3RLg"
+        },
+        {
+          "titulo": "PRAIA DO AVENTUREIRO - O Paraíso de Ilha Grande",
+          "url": "https://www.youtube.com/watch?v=r2vOOtcPVaA"
+        }
+      ]
+    },
+    {
+      "titulo": "África",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "QUEM FEZ AS PIRÂMIDES do EGITO? O QUE tem DENTRO? - VLOG #1 - Estevam Pelo Mundo",
+          "url": "https://www.youtube.com/watch?v=zkqsDoUjnbE"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "QUEM FEZ AS PIRÂMIDES do EGITO? O QUE tem DENTRO? - VLOG #1 - Estevam Pelo Mundo",
+          "url": "https://www.youtube.com/watch?v=zkqsDoUjnbE"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}

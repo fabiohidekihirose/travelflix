@@ -1,0 +1,241 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ásia",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "titulo": "Europa",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "América",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "titulo": "Brasil",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "África",
+      "cor": "red"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "CASTELO no JAPÃO - Fui a HIMEJI de TREM BALA Ep. 8",
+      "url": "https://www.youtube.com/watch?v=f6A3BJSdYMg&list=PLlZmBpUeOaNCxkWs1p0rYDDKCGPOnNV7P&index=9"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "O QUE ESPERAR DE PHI PHI - TAILÂNDIA | Ásia #11",
+      "url": "https://www.youtube.com/watch?v=bnV_fKyGXqQ"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "O lado OBSCURO de HONG KONG na CHINA - Estevam Pelo Mundo",
+      "url": "https://www.youtube.com/watch?v=ZeexPGL5xMo&list=PLlZmBpUeOaNC_0C-Sg4g-tWERO3RF_vy4"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "8 lugares que você PRECISA visitar em Busan, Coreia do Sul",
+      "url": "https://www.youtube.com/watch?v=hO4WpFq8xYI"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "VARANASI NA ÍNDIA: O QUE FAZER EM 2 DIAS? RIO GANGES + AARTI | Prefiro Viajar",
+      "url": "https://www.youtube.com/watch?v=vFkAUxfpek4&t=1365s"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "COMO é a CORÉIA do NORTE? - O país MAIS fechado do MUNDO.",
+      "url": "https://www.youtube.com/watch?v=pPwYkzUTPbU"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "HOTEL CÁPSULA no JAPÃO | o DIFERENTE do JAPÃO | Travel and Share | T4. Ep.142",
+      "url": "https://www.youtube.com/watch?v=KNchw7Wb6hY&list=PL-iw_1h-Pruk1weG9FyytXYb_GoGfB9UQ&index=7"
+    },
+    {
+      "id": 8,
+      "categoriaId": 3,
+      "titulo": "SIARGAO, a melhor ilha das FILIPINAS | Ásia #16",
+      "url": "https://www.youtube.com/watch?v=za6JXAZEZZY"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "O que fazer em OSLO na NORUEGA? País de pessoas BONITAS, Vikings e FIORDES - Estevam Pelo Mundo",
+      "url": "https://www.youtube.com/watch?v=MalQDKf2mA4&t=917s"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "ESQUEÇA LISBOA E VÁ PARA ESSES LUGARES | Portugal #2",
+      "url": "https://www.youtube.com/watch?v=8gfgrQtq9Uc"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "DICAS DE MALTA: O QUE FAZER + CENÁRIOS DE GAME OF THRONES | Prefiro Viajar",
+      "url": "https://www.youtube.com/watch?v=ht4hhYi_R_8"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "UM DIA EM EDIMBURGO ESCÓCIA | VIAGEM Romulo e Mirella - Travel and Share",
+      "url": "https://www.youtube.com/watch?v=Co7BnmkE4oQ&list=PL-iw_1h-PrukQaMpnrfC70DrRmnvAaTXJ"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "QUANTO CUSTA E COMO É VIAJAR DE TREM NA EUROPA E ATRAVESSAR A FRONTEIRA ENTRE VÁRIOS PAÍSES | VPC",
+      "url": "https://www.youtube.com/watch?v=KVwgii_LHEA"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "QUANTO CUSTA VIAJAR PARA PARIS: não é tão cara quanto você imagina! Dicas para viajar barato",
+      "url": "https://www.youtube.com/watch?v=oZmy7bsaXbg"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "CHEGUEI NO TOPO DA EUROPA - JUNGFRAU, Suíca (Switzerland)",
+      "url": "https://www.youtube.com/watch?v=Kc7eG9SkT4s"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "SALAR DE UYUNI EM 4 DIAS: PASSEIO COMPLETO SAINDO DO ATACAMA | Prefiro Viajar",
+      "url": "https://www.youtube.com/watch?v=Mtdg3TzrJbQ"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "BOGOTÁ na COLÔMBIA- COMIDAS, PREÇOS, o QUE FAZER e ONDE FICAR? - Estevam Pelo Mundo",
+      "url": "https://www.youtube.com/watch?v=uFrCOFCdyik"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "FLORESTA ESCONDIDA NO USHUAIA | Travel and Share",
+      "url": "https://www.youtube.com/watch?v=mNVp_vt7vhM"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "Nova York em 3 dias - Os melhores lugares de NYC",
+      "url": "https://www.youtube.com/watch?v=xQAGH9Qc4ow"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "A PRAIA MAIS BONITA DO MÉXICO - Mahahual | América Central #17",
+      "url": "https://www.youtube.com/watch?v=d8hkAQ3psBI"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "NICARÁGUA 01 - Cruzei a FRONTEIRA e fui pra uma ONG | MANÁGUA #1",
+      "url": "https://www.youtube.com/watch?v=8718_hmr8yY"
+    },
+    {
+      "id": 22,
+      "categoriaId": 3,
+      "titulo": "PROVANDO COMIDAS DE RUA na ARGENTINA - Estevam Pelo Mundo",
+      "url": "https://www.youtube.com/watch?v=o4R9a6qszic"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "ROTA DAS EMOÇÕES - Dos LENÇÓIS até JERI",
+      "url": "https://www.youtube.com/watch?v=Io_QGZjp0KE"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "CANOA QUEBRADA, CEARÁ: PASSEIO DE BUGGY e BATE E VOLTA DE FORTALEZA! | Prefiro Viajar",
+      "url": "https://www.youtube.com/watch?v=Y6u4YdDwdy0"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "O que fazer em GRAMADO e CANELA em 5 dias? Parques, Diversão, Hotéis e Restaurantes",
+      "url": "https://www.youtube.com/watch?v=KClStVZ3RLg"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "PRAIA DO AVENTUREIRO - O Paraíso de Ilha Grande",
+      "url": "https://www.youtube.com/watch?v=r2vOOtcPVaA"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "10 Lugares Baratos no Brasil para conhecer em 2021",
+      "url": "https://www.youtube.com/watch?v=gst7eNZQnAY"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "ARRAIAL DO CABO - ROTEIRO DE 3 DIAS",
+      "url": "https://www.youtube.com/watch?v=rXGWDJBZdpw"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "10 Lugares Incriveis do Brasil",
+      "url": "https://www.youtube.com/watch?v=yAlbT9n8uow"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "QUEM FEZ AS PIRÂMIDES do EGITO? O QUE tem DENTRO? - VLOG #1 - Estevam Pelo Mundo",
+      "url": "https://www.youtube.com/watch?v=zkqsDoUjnbE"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "ACAMPANDO NO DESERTO DO SAHARA! | MARROCOS #2",
+      "url": "https://www.youtube.com/watch?v=R68xYsaUhDw"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "O que fazer na CIDADE DO CABO, ÁFRICA DO SUL - por Carioca NoMundo",
+      "url": "https://www.youtube.com/watch?v=MNdJewKaJkU"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "ÁFRICA OU SUÍÇA? CONHEÇA A RUANDA O PAÍS QUE É CHAMADO DE SUÍÇA AFRICANA",
+      "url": "https://www.youtube.com/watch?v=ggPy-xpNNmI&t=1s"
+    },
+    {
+      "id": 34,
+      "categoriaId": 5,
+      "titulo": "PRÓXIMA PARADA: MOÇAMBIQUE (ÁFRICA)",
+      "url": "https://www.youtube.com/watch?v=8L2TfWbFing&t=30s"
+    },
+    {
+      "id": 35,
+      "categoriaId": 5,
+      "titulo": "COMO É DENTRO DAS PIRÂMIDES DO EGITO? | Saqqara | EP 9 | Prefiro Viajar",
+      "url": "https://www.youtube.com/watch?v=dMoceQyH19I"
+    }
+  ]
+}
