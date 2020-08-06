@@ -2,10 +2,12 @@ import { useState } from 'react';
 
 function useForm(valoresIniciais) {
   const [values, setValues] = useState(valoresIniciais);
+
   function setValue(chave, valor) {
+    // chave: nome, descricao, bla, bli
     setValues({
       ...values,
-      [chave]: valor,
+      [chave]: valor, // nome: 'valor'
     });
   }
 
@@ -17,10 +19,14 @@ function useForm(valoresIniciais) {
   }
 
   function clearForm() {
-    setValue(valoresIniciais);
+    setValues(valoresIniciais);
   }
 
-  return { handleChange, values, clearForm };
+  return {
+    values,
+    handleChange,
+    clearForm,
+  };
 }
 
 export default useForm;
